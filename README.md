@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=San232's_World&fontSize=70&animation=fadeIn&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=San232's_World&fontSize=70&animation=fadeIn&fontColor=ffffff)
 
 # Welcome to my Github repository
 
