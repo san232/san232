@@ -1,34 +1,51 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=San232's_World&fontSize=70&animation=fadeIn&fontColor=ffffff)
+<div align=center>
+<br>
+  
+![header](https://capsule-render.vercel.app/api?type=rect&text=san232&fontAlign=50&fontAlignY=35&fontSize=40&desc=//안녕하세요&descAlignY=70&descAlign=50&theme=radical)
+<br>
+<br>
+<br>
 
-# Welcome to my Github repository
+<h3 align="center"><b> It's me </b></h3>
+  <a href="https://ggm.gondr.net/user/profile/346" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo-portfolio&logoColor=FFFFFF"/></a>
+  <a href="https://e-san.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-fe7866?style=for-the-badge&logo-티스토리&logoColor=FFFFFF"/></a>
+<br>
+<br>
 
-## <span style="color: #0074cc;">**클라이언트 개발 지망**</span>
+ <h3 align="center"><b>usable </b></h3>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C%23-aa14cc?style=for-the-badge&logo=C%23&logoColor=white"/></a>
+<br>
+<br>
 
-### <span style="color: #0194cc"> 경기게임마이스터고등학교 재학중
+ <h3 align="center"><b>learning</b></h3>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-0078D4?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
+<br>
+<br>
 
+ <h3><b>Tools</b></h3>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-aa14cc?style=for-the-badge&logo=Visual Studio&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white"/></a>
+  <br>
 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/github-5C2D91?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+  <br>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/></a>
+<br>
+<br>
 
-# 본인을 소개합니다
+<div align="center">
+ <h3><b>Github Stats </b></h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=san232&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
+<br>
 
-![Logo](https://i.esdrop.com/d/f/TEOO1ptHUi/dwRTxmv3jB.png)
-
-#### 게임을 좋아해서 게임을 만드는 걸 장래희망으로 정한 <by>
-**이산이라고 합니다. 개발 실력 키우고 있습니다.** <by>
-
-
-
-## 앞으로의 목표는
-
-1. 개발 연습하기. <by>
-
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=san232)](https://github.com/san232/github-readme-stats) <by>
-
-    보시다시피 저는 아직 개발 분야에서는 좀 많이 부족한 상태입니다.
-    그러므로 저의 개발 능력치를 다양한 수단을 통해 끌어올려서
-    다음의 두 목표를 달성할 것입니다.
-
-2. 다양한 개발 언어 찍먹해보기
-
-#### 이상으로 제 소개를 마치겠습니다. 읽어주셔서 감사합니다.
-
-
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
+  
+</div>
