@@ -46,6 +46,6 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san232&langs_count=5&layout=compact)](https://github.com/san232/san232)
   
 </div>
